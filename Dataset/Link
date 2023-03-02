@@ -1,0 +1,6 @@
+Unable to upload dataset due to size limit but the 4 datasets which are json files were downloaded from:
+https://www.yelp.com/dataset
+
+* yelp_academic_dataset_tip.json
+* yelp_academic_dataset_checkin.json
+* yelp_academic_dataset_business.json
